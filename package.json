@@ -1,0 +1,12 @@
+{
+  "name": "ncn-db-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@prisma/client": "^4.1.1",
+    "benchmark": "^2.1.4",
+    "prisma": "^4.1.1"
+  },
+  "type": "module"
+}
